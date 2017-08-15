@@ -4,7 +4,7 @@
 
 ## Mindre overskrift med flere hashtags
 
-### Link til hjemmesider med navn i firkantet parentes og adressen i almindelig parantes
+### Link til hjemmesider med navn i firkantet parentes og adressen i almindelig parentes
 [google](http://google.dk)
 
 * lister
