@@ -11,8 +11,6 @@
 * laves 
 * med
 * stjerne
-# jaa
-
 ```javascript
 
 if(true){
