@@ -1,4 +1,4 @@
-#GitHuB Repository
+# GitHuB Repository
 
 ## Sådan opretter du et repository på GitHub.
 
@@ -12,7 +12,7 @@
 
 ## Link til hjemmesider
 
-##### Link til hjemmesider med navn i firkantet parentes og adressen i almindelig parentes
+Link til hjemmesider med navn i firkantet parentes og adressen i almindelig parentes
 
 [google](http://google.dk)
 
@@ -20,16 +20,14 @@
 
 ### Lav så mange du vil
 
-#### jo flere hashtags, jo mindre overskrift
+#### Flere hashtags = mindre overskrift
 
 ## Print til konsol.
 
-#### Nedenstående kode viser hvordan du kan printe indhold til kommandoprompten/konsollen. 'Hej verden' kan ændres til andet tekst eller en variabel.
+ Nedenstående kode viser hvordan du kan printe indhold til kommandoprompten/konsollen. 'Hej verden' kan ændres til andet tekst eller en variabel.
 
 ```javascript
 
-if(true){
     console.log('Hej verden');
-}
 
 ```
