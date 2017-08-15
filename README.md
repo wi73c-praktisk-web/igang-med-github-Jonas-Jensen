@@ -1,16 +1,21 @@
 # igang-med-github-Jonas-Jensen
 
-# overskrift
+# Print til konsol
 
+## Mindre overskrift med flere hashtags
+
+### Link til hjemmesider med navn i firkantet parentes og adressen i almindelig parantes
 [google](http://google.dk)
 
-* list
-* list 
-* list
-```
+* lister
+* laves 
+* med
+* stjerne
+
+```javascript
 
 if(true){
-    console.log('fff');
+    console.log('Hej verden');
 }
 
 ```
