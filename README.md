@@ -12,7 +12,10 @@
 
 ## Link til hjemmesider
 
-Link til hjemmesider med navn i firkantet parentes og adressen i almindelig parentes ex. ```[Youtube](http://youtube.com)```
+Link til hjemmesider med navn i firkantet parentes og adressen i almindelig parentes ex.
+```
+[Youtube](http://youtube.com)
+```
 
 [google](http://google.dk)
 
