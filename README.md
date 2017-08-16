@@ -34,3 +34,55 @@ Link til hjemmesider med navn i firkantet parentes og adressen i almindelig pare
     console.log('Hej verden');
 
 ```
+
+## If-else
+
+En _If-else_ sætning kan bruges til at udføre forskellige stumper kode afhængig af forskellige værdier.
+
+```javascript
+
+if(number > 5){
+    console.log('Number er større end 5');
+}else if(number < 5){
+    console.log('Number er lavere end 5');
+}else{
+    console.log('Number er 5');
+}
+
+```
+Hvilken kode der bliver kørt kommer an på på den værdi number har. Hvis number er større end 5, printes den øverste. Hvis number er lavere end 5 printes den midterste. Eller hvis ingen af de to bliver opfyldt, bliver den sidste opfyldt.
+
+## Operatorer
+
+* (=)     Giver en værdi til en variabel
+* (==)    Spørger om de har den samme værdi
+* (===)   Spørger om de har den samme værdi og samme datatype
+* (!)     Betyder ikke
+* (!=)    Kan oversættes til 'Hvis ikke' de har samme værdi
+* (!==)   Hvis ikke de har samme værdi og datatype
+* (<)     Mindre end
+* (>)     Større end
+* (<=)    Mindre eller det samme som
+* (>=)    Større eller det samme som
+* (+)     Lægger to værdier sammen
+* (-)     Trækker to værdier fra hinanden
+* (*)     Ganger to værdier med hinanden
+* (/)     Dividerer to værdier med hinanden
+* (%)     Den tager resten af to dividerede tal
+* (&&)    Kan overssættes til 'Og' Hvis to eller flere betingelser skal opfyldes
+* (||)    Kan oversættes til 'Eller' Hvis bare en ud af flere betingelser skal opfyldes
+
+## For-løkke
+
+En for-løkke kan bruges til at udføre den samme kode flere gange med forskellige værdier.
+
+
+```javascript
+
+for(var count4 = 2017; count4 >= 1917; count4--){
+    console.log(count4);
+}
+
+```
+
+fx. vil denne kode udskrive alle tal mellem 2017 og 1917 inklusiv de to. 
