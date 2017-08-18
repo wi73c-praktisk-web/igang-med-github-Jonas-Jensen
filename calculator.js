@@ -13,6 +13,9 @@ function calculator() {
         divide: function(x,y) {
             result = x / y;
         },
+        squaeroot: function(x) {
+            result = x * x;
+        },
         result: function() {
             return result;
         }
@@ -20,6 +23,43 @@ function calculator() {
 }
 
 var calc = calculator();
-calc.add(5,9);
 
-console.log(calc.result());
+//------------------------------
+
+// var rl = require("readline");
+// var prompts = rl.createInterface(process.stdin, process.stdout);
+
+
+// prompts.questions("tast p for plus, m for minus, g for gange, d for dividere, k for kvadratrod ");
+
+//console.log("tast p for plus, m for minus, g for gange, d for dividere, k for kvadratrod ");
+var valg = ("")
+
+if(valg == "p") {
+    console.log(valg + " + ? ");
+    var inp = readline();
+    var result = p + inp;
+    console.log(result);
+}else if(valg == "m"){
+    console.log(valg + " - ? ");
+    var inp = readline();
+    var result = p - inp;
+    console.log(result);
+}else if(valg == "g") {
+    console.log(valg + " * ? ");
+    var inp = readline();
+    var result = p * inp;
+    console.log(result);
+}else if(valg == "d") {
+    console.log(valg + " / ? ");
+    var inp = readline();
+    var result = p / inp;
+    console.log(result);
+}
+
+// var inp = raw.input();
+// var inp2 = raw.input();
+
+// calc.squaeroot(10); // Ændr tal her
+
+// console.log(calc.result());
