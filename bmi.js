@@ -1,5 +1,5 @@
-var height = 1.9;       //Indtast din højde her
-var weight = 91;        //Indtast din vægt her
+var height = 1.88;       //Indtast din højde her
+var weight = 92;        //Indtast din vægt her
 var bmi =  Math.round(weight / (height * height));
 
 if(bmi <= 18.5) {
