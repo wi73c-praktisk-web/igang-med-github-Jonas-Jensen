@@ -22,11 +22,11 @@ function fartbode50(hastighed) {
         console.log("Under vejarbejde vil bøden være: 6000kr");
     }
     else if(hastighed > 80) {
-        console.log("Ikke regnet så højt.");
+        console.log("Ikke regnet så højt, men bøden er høj");
     }else{
         console.log("Du kører pænt, ingen bøde til dig.");
     }
 }
 
-fartbode50(70);
+fartbode50(75);
 
