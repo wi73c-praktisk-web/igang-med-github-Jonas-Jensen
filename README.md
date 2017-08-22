@@ -86,3 +86,20 @@ for(var count4 = 2017; count4 >= 1917; count4--){
 ```
 
 fx. vil denne kode udskrive alle tal mellem 2017 og 1917 inklusiv de to. 
+
+## Funktioner
+
+En funktion er et stykke kode som kan blive skrevet af brugeren eller være indbygget i sproget. Det stykke kode der findes i en funktion vil ikke blive udført medmindre at funktionen bliver kaldt.
+
+
+```javascript
+
+function hello() {
+    console.log("Hej..");
+}
+
+hello();
+
+```
+
+Her bliver der lavet en funktion "hello", som udskriver værdien "Hej..". Dog vil kodestykket først blive kørt når funktionen bliver kaldt ved at skrive "hello();"

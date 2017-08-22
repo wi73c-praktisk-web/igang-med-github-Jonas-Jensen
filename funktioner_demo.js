@@ -1,7 +1,7 @@
 hello();
 
 function hello() {
-    console.log("Hejjjjj..");
+    console.log("Hej..");
 }
 
 //--------------------------
