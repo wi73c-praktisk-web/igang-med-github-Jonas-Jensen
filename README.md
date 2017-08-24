@@ -35,7 +35,7 @@ Link til hjemmesider med navn i firkantet parentes og adressen i almindelig pare
 
 ```
 
-## If-else
+## If-else condition
 
 En _If-else_ sætning kan bruges til at udføre forskellige stumper kode afhængig af forskellige værdier.
 
